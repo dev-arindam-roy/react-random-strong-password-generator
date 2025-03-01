@@ -7,7 +7,7 @@ Generate strong and secure passwords instantly with our free online Strong Passw
 ## Check It 
 [https://dev-arindam-roy.github.io/react-random-strong-password-generator/](https://dev-arindam-roy.github.io/react-random-strong-password-generator/)
 
-![password-generator](https://github.com/user-attachments/assets/ca4049a4-718b-4806-9016-6237f7d66ef7)
+![password-generator-auto](https://github.com/user-attachments/assets/8ee86ba4-f10f-48ad-90a5-24a1f936dae8)
 
 
 ## Check It 
